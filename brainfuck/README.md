@@ -1,10 +1,5 @@
 # Brainfuck
 
-These files should help you get started with your brainfuck implementation.
-In specific, they take care of the fiddly bit with reading a file.
-
-There are a few files in here for you:
-
  - main.s:
     This file contains the main function.
     It reads a file from a command line argument and passes it to your brainfuck implementation.
