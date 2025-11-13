@@ -22,9 +22,6 @@ There are a few files in here for you:
     A file containing compilation information.  If you have a working make,
     you can compile the code in this directory by simply running the command `make`.
 
-
-Feel free to have a look at the different files, but keep in mind that all you need to do is:
-
   1. Edit `brainfuck.s`
   2. Run `make`
   3. Run `./brainfuck`
